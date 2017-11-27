@@ -1,2 +1,2 @@
 # Name-Animator
-Change the text using JavaScript when a button is pressed
+Change the text with JavaScript when a button is pressed. Using Angular for Two-way Data Binding.
